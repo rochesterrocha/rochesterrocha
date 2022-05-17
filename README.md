@@ -1,7 +1,7 @@
 ### Olá, eu sou Rochester Rocha 👋
 
-- 🔭 Hoje eu trabalho como fullstack
-- 🌱 Estudando Vue e Node com Adonis
+- 🔭 Trabalho com PHP/NODE 
+- 🌱 Estudando React/VUE
 - 📫 Contate-me no e-mail: rochagondim@hotmail.com
 
 <div align="center">
